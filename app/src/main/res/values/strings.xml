@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">IFTools</string>
+    <string name="txtBotao">Acessar</string>
+    <string name="txtMsg">Para criar uma conta, clique aqui</string>
+    <string name="txtTitulo">Cadastre-se</string>
 </resources>
